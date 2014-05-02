@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">MyNFCWriter2</string>
+    <string name="action_settings">設定</string>
+    <string name="guide_message">設定する処理を選択したあと、この端末を、NFCタグにかざしてください。</string>
+    <string name="radio_web">ウェブサイトを表示する</string>
+    <string name="radio_tel">電話をかける</string>
+    <string name="radio_sms">SMSを送る</string>
+    <string name="radio_mail">メールを送る</string>
+    <string name="radio_map">Googleマップアプリを起動する</string>
+    <string name="radio_youtube">Youtubeアプリを起動する</string>
+    <string name="radio_twitter">Twitterアプリを起動する</string>
+    <string name="radio_line">LINEアプリを起動する</string>
+    
+</resources>

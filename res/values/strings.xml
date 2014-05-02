@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">MyNFCWriter2</string>
+    <string name="action_settings">Settings</string>
+    <string name="guide_message">Please choose function, and place your smartphone on the tag.</string>
+    <string name="radio_web">Show web page.</string>
+    <string name="radio_tel">Call.</string>
+    <string name="radio_sms">Send SMS.</string>
+    <string name="radio_mail">Send mail.</string>
+    <string name="radio_map">Launch Google maps app.</string>
+    <string name="radio_youtube">Launch Youtube app.</string>
+    <string name="radio_twitter">Launch Twitter app.</string>
+    <string name="radio_line">Launch LINE app.</string>
+
+</resources>
