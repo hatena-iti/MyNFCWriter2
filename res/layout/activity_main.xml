@@ -53,16 +53,17 @@
             android:layout_height="wrap_content"
             android:text="@string/radio_youtube" />
         <RadioButton
-            android:id="@+id/radioTwitter"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/radio_twitter" />
-        <RadioButton
             android:id="@+id/radioLine"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/radio_line" />
-
+<!-- 
+        <RadioButton
+            android:id="@+id/radioTwitter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_twitter" />
+-->
     </RadioGroup>
 
 </RelativeLayout>
